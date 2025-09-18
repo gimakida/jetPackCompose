@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gold Wise</string>
+    <string name="total">RS %.2f</string>
+</resources>
